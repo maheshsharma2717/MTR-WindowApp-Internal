@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AddBusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddBusRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddBusTiming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddHotelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingSeatEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingTextChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusTiming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusTimingDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomTimePicker .cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomToggle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HotelDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HotelId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HotelList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainLayoutScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MapSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MultipleHotelId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="paymentKeySquare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SeatingPlanControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StopsBusRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Success.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TickGif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToasterMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="AddBusRoute.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="BusTimingDetails.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="StaffList.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
